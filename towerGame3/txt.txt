@@ -1,0 +1,20 @@
+to do:
+add Model::LoadData
+fix amount finder in Model
+make tile ize by screen size
+
+
+
+
+vector to void pointer
+std::vector
+
+void *Get(int code)
+switch code
+coso 0
+return
+
+ex 0= posx, 1= posy
+
+      void*  
+*(float) Get(1)
